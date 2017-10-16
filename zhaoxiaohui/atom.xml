@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zhaxiaohui&#39;s ...</title>
+  
+  
+  <link href="/zhaoxiaohui//zhaoxiaohui/atom.xml" rel="self"/>
+  
+  <link href="https://zhaoxiaohui.github.io/zhaoxiaohui/"/>
+  <updated>2017-10-16T08:45:11.000Z</updated>
+  <id>https://zhaoxiaohui.github.io/zhaoxiaohui/</id>
+  
+  <author>
+    <name>zhaoxiaohui</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录生活，记录成长</title>
+    <link href="https://zhaoxiaohui.github.io/zhaoxiaohui/2017/10/16/hello-world/"/>
+    <id>https://zhaoxiaohui.github.io/zhaoxiaohui/2017/10/16/hello-world/</id>
+    <published>2017-10-16T08:45:11.000Z</published>
+    <updated>2017-10-16T08:45:11.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在这里见证时间的力量&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
